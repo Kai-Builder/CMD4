@@ -148,6 +148,9 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="iogz.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.html" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
